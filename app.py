@@ -28,4 +28,6 @@ if st.button("Predict Type of Iris") :
 
 st.text("")
 st.text("")
-st.markdown()
+
+st.markdown("---") 
+st.markdown("Created by [Your Name]")
